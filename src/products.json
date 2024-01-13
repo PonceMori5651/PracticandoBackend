@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Lavadora Modificado",
+    "description": "Lavadora ultimo modelo Modificado",
+    "price": 2141,
+    "thumbnail": "sin imagen Modificado",
+    "code": "abc12345",
+    "stock": 23
+  },
+  {
+    "id": 2,
+    "title": "Lavadora Modificado",
+    "description": "Lavadora ultimo modelo Modificado",
+    "price": 2141,
+    "thumbnail": "sin imagen Modificado",
+    "code": "abc12345",
+    "stock": 23
+  }
+]
